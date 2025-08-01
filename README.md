@@ -1,2 +1,2 @@
-# musical-broccoli
-An experimental AI-powered tool that transforms handwritten notes into interactive, teachable modules.
+# musical-broccolli
+An interactive, sound-activated learning game featuring a dancing broccoli that teaches kids about music and healthy eating.
